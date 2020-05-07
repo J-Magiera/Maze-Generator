@@ -16,6 +16,6 @@ Project goals:
 
 Created by:
 
-  Paweł Waśniowski (put Github link here)
+  Paweł Waśniowski (a.k.a. Wisnia1998)
   Jan Magiera (a.k.a. ThrufR)
   
