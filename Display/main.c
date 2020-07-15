@@ -84,7 +84,7 @@ void SystemClock_Config(void) {
 */
 /*********************************************************************
 *
-*       _acImage_0, "E:\C_proj\proj1 — kopia\RTE\Graphics\rsz_labir_Easy-Resize.com (2).jpg", ID_IMAGE_0_IMAGE_0
+*       _acImage_0, "E:\C_proj\proj1 â€” kopia\RTE\Graphics\rsz_labir_Easy-Resize.com (2).jpg", ID_IMAGE_0_IMAGE_0
 */
 static const U8 _acImage_0[19683] = {
   0xFF, 0xD8, 0xFF, 0xE0, 0x00, 0x10, 0x4A, 0x46, 0x49, 0x46, 0x00, 0x01, 0x01, 0x01, 0x00, 0x60, 0x00, 0x60, 0x00, 0x00, 0xFF, 0xDB, 0x00, 0x43, 0x00, 0x02, 0x02, 0x02, 0x02, 0x02, 0x01, 0x02, 0x02, 0x02, 0x02, 0x03, 0x02, 0x02, 0x03, 0x03, 0x06, 0x04,
@@ -835,7 +835,7 @@ void twoLayer(void* params){
 void button()
 {
 		__HAL_RCC_GPIOA_CLK_ENABLE();
-		GPIO_InitTypeDef gpio; // obiekt gpio bedacy konfiguracja portów GPIO
+		GPIO_InitTypeDef gpio; // obiekt gpio bedacy konfiguracja portÃ³w GPIO
 	 gpio.Pin = GPIO_PIN_0; // konfigurujemy pin 5
 	 gpio.Mode = GPIO_MODE_INPUT; // jako wyjscie
 	 gpio.Pull = GPIO_NOPULL;
