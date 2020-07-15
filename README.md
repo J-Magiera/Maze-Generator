@@ -12,7 +12,7 @@ Project goals:
   - Create library for 240x320 LCD display (for further use)
   - Create library for GPIO button controls
   - Create library for accelerometer controls (optional)
-  - Design include files so that project builds and works for both FRDM-k20d50m and FRDM-kl20z5 development boards (optional)
+  - Design include files so that project builds and works for both FRDM-k20d50m and FRDM-kl25z development boards (optional)
 
 Created by:
 
