@@ -15,3 +15,17 @@
 *.dep
 *.tomek
 *.s
+*.dbgconf
+*.scvd
+Display/ITM_Retarget.c
+*.Thruf
+*.iex
+Display/RTE/Device/STM32F429ZITx/system_stm32f4xx.c
+Display/RTE/Device/STM32F429ZITx/stm32f4xx_hal_conf.h
+Display/RTE/Device/STM32F429ZITx/RTE_Device.h
+Display/RTE/CMSIS/RTX_Config.h
+Display/RTE/CMSIS/RTX_Config.c
+Display/RTE/_Target_1/RTE_Components.h
+Display/RTE/_default/RTE_Components.h
+Display/RTE/Graphics/GUIConf.c
+Display/RTE/Graphics_Display/STM32F429ZITx/LCDConf.c
